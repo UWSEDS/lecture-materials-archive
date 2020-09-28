@@ -1,0 +1,3 @@
+[submodule "fall2020"]
+	path = fall2020
+	url = https://github.com/UWSEDS/lecture-materials
